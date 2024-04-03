@@ -12,6 +12,7 @@ Esta herramienta te permite enviar mensajes masivos junto con imágenes a travé
 
 - Un navegador web moderno con soporte para JavaScript.
 - WhatsApp instalado y configurado en el dispositivo donde se ejecutará la herramienta.
+- Node.js v20.12.0
 
 ### Instrucciones de Uso:
 
@@ -39,3 +40,11 @@ Para obtener ayuda o reportar problemas, por favor reportar al correo wilmerzuni
 ¡Gracias por elegir nuestro Portal de Envíos Masivos con Imágenes en WhatsApp!
 
 ---
+
+## Uso de la herramienta
+### Instrucciones:
+1. Abrir el archivo MMW en la carpeta
+2. Seguir las instrucciones en la terminal
+
+
+
